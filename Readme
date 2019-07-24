@@ -1,0 +1,6 @@
+Q1. Why have to be careful running k8s+docker in windows 10?
+A1. You can enable and disable the Hyper-V hypervisor at will, but it requires a restart of your computer.
+
+If you're frequently switching from containers to virtual machines, perhaps minikube is a more convenient choice. You don't need to restart your computer when you change from containers to virtual machines.
+
+
