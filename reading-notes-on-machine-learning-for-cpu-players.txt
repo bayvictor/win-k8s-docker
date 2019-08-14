@@ -1,0 +1,26 @@
+G L O B A L S E MI CO N D U C TO R I N D U S T RY S E RV I C E
+M O N T H L Y R E P O R T
+VOLUME 27, NO. 6 JUNE 2018
+Abstracts and Notes
+
+(1) Additionally, AMD continues to be a good acquisition candidate for a company that wants to participate within machine learning and other growth areas related to AI based on access to leadership GPU architectures. Additionally, AMD has relatively strong new product development capabilities, and with access to more financial resources, the competitive position of its GPU products can strengthen significantly.
+(2) The approach of many companies in Japan for increasing short-term profits is to reduce R&D expenditures. However, this will likely weaken the ability of many Japanese companies to be competitive in growth markets, including AI with machine learning in the future.
+(3) AI and machine learning represent major opportunities for Intel. The company needs to provide reference designs and concepts such as NVIDIA’s CUDA so that software developers can develop the training and inference algorithms that can operate on Intel processors (similar to the approach of NVIDIA) and can be used in a wide range of applications.
+(4) Intel has also invested $60 million in 15 data-centric startups ranging from AI, cybersecurity, and autonomous machines, including Amenity Analytics, Bigstream, LeapMind, Synthego, AdHawk Microsystems, Trace, Bossa Robotics, EchoPixel, Horizon Robotics, Reniac, TileDB, Alcide, Eclypsium, Intezer, and Synack. Intel is trying to expand the breadth of services that may emerge from big data and the application of AI and machine learning technologies.
+(5) AI and machine learning may provide significant revenue growth for Intel but require operating cultures that are different from the design and manufacturing technologies that have traditionally been the company’s strength. Intel participates in a number of areas related to AI, and the key challenge for the company is to develop models that can support high revenue growth.
+(6) NVIDIA is effective in promoting its relationships with Google, Microsoft, Alibaba, Amazon, Baidu, and others. NVIDIA is also very effective in promoting itself as a technology leader, and many companies want to collaborate with the leader.
+As a result of the effective promotion of AI and increased revenues and profits, NVIDIA has a market valuation of $137.4 billion, which is over 14 times higher than the revenues of the company.
+(7)STRENGTHS NVidia Has the brand image of a visionary technology leader in AI, machine learning, and deep learning. NVIDIA has taken a highly systematic and methodical approach to promoting its brand as the pioneer in the development of new technology concepts related to AI and in providing solutions that are superior the competition.
+(8) NVidia's product solutions within the growth segments of AI, deep learning, and machine learning applications. Furthermore, the consumer perception of NVIDIA as a leader is a key factor why customers buy the company’s new products.
+(8.2) The CUDA platform and the development environment supported by NVIDIA allow thousands of organizations to develop training algorithms that support the adoption of AI-based technologies, which in turn, results in increasing the demand for NVIDIA’s products.
+(8.3) NVIDIA has historically focused on processor acceleration for training, but the latest strategies of the company are on processors for inference applications, which can require high-volume processors. An example is the processor for autonomous driving, where the volume can be 100 million units per year in the future.
+(9) NXP The S32V234 vision processor for the front and surround view camera, machine learning, and sensor fusion applications feature 1GHz quad-core Cortex-A53; (9.2) The new i.MX 8M Mini is based on Samsung’s third-generation 14nm FinFET (14LPC) technology for edge compute and machine learning applications
+(10) Qualcomm collaborate with Beijing-based SenseTime Group on the development of AI and machine learning for mobile and IoT products. SenseTime has algorithms for machine learning and AI that are well accepted in China.(10.2) The Snapdragon 845 for machine learning as well as with AR.
+(11) Related to AI and machine learning, There are also other areas where STMicroelectronics can complement its emphasis on organic growth with additional strategic acquisitions.
+
+
+
+
+
+
+
