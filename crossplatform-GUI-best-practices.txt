@@ -1,0 +1,7 @@
+Notes:
+source:https://www.quora.com/What-programming-language-is-recommended-for-fast-GUI-development-on-the-desktop-Windows-Linux-that-requires-a-low-latency-nice-looking-interface-that-isnt-C++
+
+(Ways 1) The ONLY way to do cross platform correctly is use good engineering practice and design. Consolidate all of your business logic in a shared library, and invoke this library from a NATIVE UI. The native UI would be built with C# or WPF on Windows, Swift on OSX, and GTK on Linux. This is the approach that any commercial cross-platform application follows.
+(Ways 2) Just tell PySide to import the damn .ui file and you already have one layer of XML.
+A really nice XML based tool for UI design is Mozilla XUL. It can be used with multiple languages, but JavaScript is the most common. Mozilla is often overlooked as a cross-platform UI framework, but it is one of the most mature.
+(Ways 3) My favorite such framework is still Apple’s Cocoa and Cocoa touch, which means Objective-C or Swift. The framework alone is not enough, of course: The program needs to be designed with responsiveness in mind.
