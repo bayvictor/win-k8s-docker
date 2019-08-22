@@ -34,11 +34,6 @@ Based on Scott Hanselman's blog 1/8/2014.
 
 URL, what's best batch filename rule for firefox downloader plugin?
 *inum*_*num*__*flattitle*__*flattext*__*qstring*__*flatcurl*__*name*.*ext*
-
-LinkedIn URL
-
- https://www.linkedin.com/in/victor-xiangdong-huang-24a4361b/
-
 #downloadStar Naming
 ${inum}__${title}__${file}__${itemUrl[hostname]}__${alt}.${fileext}
 https://www.google.com/search?&q=solr+performance+filetype%3Apdf+inurl%3Aresume&filter=0
@@ -47,6 +42,12 @@ https://www.google.com/search?&q=solr+performance+filetype%3Apdf+inurl%3Aresume&
 {counter}__{title}__{name}__{alt}__{url}{newline}
 
 https://www.google.com/search?q=tomcat+jenkins+filetype%3Apdf+inurl%3Aresume&filter=0
+
+
+LinkedIn URL
+
+ https://www.linkedin.com/in/victor-xiangdong-huang-24a4361b/
+
 
 https://www.google.com/search?q=elasticsearch+solr+filetype:pdf+inurl:resume&gbv=2&filter=0&biw=1755&bih=980
 https://www.google.com/search?q="android+auto"++filetype%3Apdf+inurl%3Aresume+-"order+resume"+-"best+buy"
