@@ -1,4 +1,4 @@
-
+public source:https://www.researchgate.net/publication/235141592_Solid_State_Quantum_Computer_in_Silicon
 1) With billions of transistors on a single chip, the silicon MOSFET is the mostreplicated man made structure in human history.
 2) silicon material system has two additional properties that make it particularly promising for building qubits. The first is the predominance
 of spin-zero 28Si nuclei in silicon which can be isotopically purified to create a spin free host nicknamed the so-called
