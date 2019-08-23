@@ -1,0 +1,37 @@
+source:https://seilevel.com/requirements/best-practices-with-use-cases
+Details, notes here are all from trusted, public url source.
+Use Cases, best practices:
+1.    Single statement per line
+2.    Always have a subject – “User” or “System”
+3.    Be concise – remember, use cases are not end requirements – you should be demonstrating the interaction between the system and user, but not detailed specifications
+4.    Use an active voice
+
+========================================================================
+Enriching Use Cases, best practices:
+1.    Single statement per line
+1.2. 20/80 rule applied to de-composing, and subjects. 
+2. Always have the interactions for subjects – “User”, Win Gui, messager pipe (Kafka), backend, aggregator, message, microservice. 
+3.    Be concise – remember, use cases are not end requirements – you should be demonstrating the interaction between the system and user, but not detailed specifications
+4.    Use an active voice
+
+=======================================================================
+
+source: http://www.itk.ilstu.edu/faculty/bllim/itk353/NotesSlidesDocs/MKS_Use_Cases.pdf
+
+1. Use cases: are written from the perspective of the user -- as a flow of events.  The user is called an “actor” -- and the narrative of the flow of events -- between this actor and the system is called the “use case.”  
+
+2. So, first step, is identify the actor, his work and life pain points, thus script out  a story-line, then a clear flow, then the best way to present the story. 
+The way the pain and resolution of the story  tides in order, scripted out as "system".
+
+3. Use cases are literally the specific “cases” for which the actor wants to “use” the system. 
+3.1. Points: user perspective rather than system perspective; 3.2. Goal-driven flow!
+So it's not a description of system, it's user-centric, app-context driven! User is #1!
+
+Use cases used in: 
+1. requirements management community for capturing requirements.
+2. Packaged software implementations;
+3. Business modeling.
+4. use cases are best for app PLM(Peoplesoft, Oracle, SAP).
+5.  task of defining high-qualityrequirements is crucial to all the project stakeholders: clients, end users, developers, testers, andmanagers.
+
+
