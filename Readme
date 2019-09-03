@@ -74,6 +74,20 @@ Don’t be a reactive VDI "angry" implementer. (because existing VDI won't fit y
 Be proactive and build the foundation for VDI correctly up front so you can: 
 (2.1a) answer any use case that comes up in the future. (2.1b) pain points. 
 (2.2) <b>Budget. </b>
-Understand the total cost of ownership as well as per user cost to run your service before you begin. Ensure you have a realistic budget.
+Understand: (2.2.1) the total cost of ownership; (2.2.2) as well as per user cost to run your service before you begin. 
+(2.2.3) Ensure you have a realistic budget.
 
-(3) source:https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka/
+(3) Dell, HP and IBM offering NVIDIA GRID-based server, Citrix, Microsoft and Vmware offering GRID-enabled software, 
+can be multiple users per GPU/NVidia.
+(4) XenApp 7.0: Preisberechnung: 300 concurrent User, Enterprise Edition, Easy Licensing Bestehender.
+for: XenApp/ -XenDesktop/-XenClient/ -ProvisioningServices /-XenServer
+{ Additional Microsoft licenses
+• It requires a VDA license for every connection to a Microsoft virtual machine via XenDesktop
+• If the user starts a published application of XenApp via the VDI, the user needs an RDSH license on the Microsoft server
+• Citrix has deviceLicensing, no matter which products the user needs, only one license is charged
+}
+
+
+
+(A) source:https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka/
+
