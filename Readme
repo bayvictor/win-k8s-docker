@@ -87,6 +87,12 @@ for: XenApp/ -XenDesktop/-XenClient/ -ProvisioningServices /-XenServer
 • Citrix has deviceLicensing, no matter which products the user needs, only one license is charged
 }
 
+(5) Talk to people with a lot of EUC (end-user computing) experience in the areas of VDI (virtual desktop infrastructure) 
+and SBC (server-based computing) to avoid Sales Noices of BS. Refer to youtube+VDI is also good!
+(6) Set expectations: A virtual desktop will never be an identical experience to a physical desktop.
+(7) Use cases & pain points: Sit down and spend time to understand everyone’s needs and work together toward that goal.
+(8) Azure AD + Azure MFA using Microsoft Authenticator is powerful. 
+Okta UD + Okta MFA using Okta Verify is simple to deploy and powerful as well.
 
 
 (A) source:https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka/
