@@ -5,3 +5,9 @@ of spin-zero 28Si nuclei in silicon which can be isotopically purified to create
 “semiconductor vacuum” (12). This, and the second property of having a small spin-orbit coupling which suppresses
 phonon and spin orbit based decoherence mechanisms, make silicon based qubits inherently resilient to errors.
 
+Nov 25, 2019.
+-----------------------
+https://www.slideshare.net/rjurney/agile-data-science-20-big-data-science-meetup
+This has clear diagram with toolset of pyspark, kafka, mongodb, elastic search, and flask.
+
+
